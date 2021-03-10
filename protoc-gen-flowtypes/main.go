@@ -13,7 +13,7 @@ import (
 	"github.com/golang/protobuf/proto"
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
 	"github.com/pfilippi24/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
-	"github.com/StK88/grpcutil/protoc-gen-flowtypes/genflowtypes"
+	"github.com/pfilippi24/grpcutil/protoc-gen-flowtypes/genflowtypes"
 )
 
 var (

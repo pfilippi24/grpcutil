@@ -14,7 +14,7 @@ import (
 	"github.com/pfilippi24/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
 	"github.com/pkg/errors"
 	"github.com/iancoleman/strcase"
-	"github.com/StK88/grpcutil/protoc-gen-flowtypes/opts"
+	"github.com/pfilippi24/grpcutil/protoc-gen-flowtypes/opts"
 )
 
 // Dependencies maps packages names to imported type names.

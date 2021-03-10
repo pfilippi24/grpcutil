@@ -10,7 +10,7 @@ import (
 	plugin "github.com/golang/protobuf/protoc-gen-go/plugin"
 	"github.com/pfilippi24/grpc-gateway/protoc-gen-grpc-gateway/descriptor"
 	"github.com/pkg/errors"
-	"github.com/StK88/grpcutil/protoc-gen-flowtypes/opts"
+	"github.com/pfilippi24/grpcutil/protoc-gen-flowtypes/opts"
 )
 
 var (
