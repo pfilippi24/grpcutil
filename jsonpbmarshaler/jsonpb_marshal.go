@@ -25,7 +25,7 @@ import (
 
 	"github.com/gogo/protobuf/jsonpb"
 	"github.com/gogo/protobuf/proto"
-	gwruntime "github.com/grpc-ecosystem/grpc-gateway/runtime"
+	gwruntime "github.com/pfilippi24/grpc-gateway/runtime"
 	"github.com/pkg/errors"
 )
 
